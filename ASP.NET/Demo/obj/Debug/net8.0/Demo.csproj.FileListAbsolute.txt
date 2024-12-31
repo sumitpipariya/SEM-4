@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\SUMIT\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\student\Desktop\SUMIT\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\student\Desktop\SUMIT\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\student\Desktop\SUMIT\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\student\Desktop\SUMIT\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\student\Desktop\SUMIT\Demo\obj\Debug\net8.0\ref\Demo.dll
